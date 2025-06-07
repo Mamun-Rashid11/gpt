@@ -1,0 +1,16 @@
+/*
+ * Basic styles for Alentora RSO Properties
+ */
+
+.alentora-rso-search-form {
+    /* Add your form styling here */
+}
+
+.alentora-rso-properties {
+    /* Container for property listings */
+}
+
+.alentora-rso-property {
+    /* Individual property item */
+    margin-bottom: 20px;
+}
