@@ -1,0 +1,19 @@
+/* Basic styles for property grid */
+.alentora-properties {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+.alentora-property {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+.alentora-property img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.alentora-property-title {
+    font-size: 1.1em;
+    margin: 0.5em 0;
+}
